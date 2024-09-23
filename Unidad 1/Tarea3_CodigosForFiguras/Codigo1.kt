@@ -1,7 +1,7 @@
 fun main() {
     triangulo1()
     println()
-    triangulo2() // Corregido
+    triangulo2()
     println()
     triangulo3()
     println()
@@ -32,7 +32,7 @@ fun triangulo1() {
 
 }
 
-// Triángulo 2 (nuevo, como el triángulo 1 original)
+// Triángulo 2
 fun triangulo2() {
     println("=== Triángulo 2 ===")
     for (i in 1..8) {
@@ -44,7 +44,7 @@ fun triangulo2() {
 }
 
 
-// Triángulo 3 (invertido y alineado a la derecha)
+// Triángulo 3
 fun triangulo3() {
     println("=== Triángulo 3 ===")
     for (i in 8 downTo 1) {
@@ -58,7 +58,7 @@ fun triangulo3() {
     }
 }
 
-// Triángulo 4 (invertido)
+// Triángulo 4
 fun triangulo4() {
     println("=== Triángulo 4 ===")
     for (i in 8 downTo 1) {
