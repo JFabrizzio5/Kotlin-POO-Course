@@ -11,7 +11,7 @@ fun main() {
     println()
     arbol()
 }
-
+//2CV22 HERNANDEZ GONZALEZ JOSEPH FABRIZZIO
 // Triángulo 1
 fun triangulo1() {
     println("=== Triángulo 1 ===")
